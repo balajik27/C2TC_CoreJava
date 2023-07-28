@@ -5,5 +5,11 @@ public class Main {
 		StaticVariable sv = new StaticVariable();
 		sv.display();
 		
+//		also accessed by creating object
+//		StaticMethod sm = new StaticMethod();
+//		sm.display(); 
+		
+		StaticMethod.display();
+		
 	}
 }
