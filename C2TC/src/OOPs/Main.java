@@ -6,6 +6,8 @@ public class Main {
 		si.display();
 		
 		MultiLevel ml = new MultiLevel();
-		ml.display();
+		ml.display3();
+		
+		
 	}
 }
