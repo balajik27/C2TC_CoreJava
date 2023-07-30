@@ -10,13 +10,13 @@ public class FinalClass {
 	}
 }
 
-class FinalMethod extends FinalClass{
+//class FinalMethod extends FinalClass{
 //	@Override
-//	public void display() { //  cant be overriden
+//	public void display() { //  cant be overridden
 //		System.out.println("Cant override");
 //	}
-}
-public class child extends FinalClass{
-	int b=30;
-	
-}
+//}
+//public class child extends FinalClass{
+//	int b=30;
+//	
+//}
